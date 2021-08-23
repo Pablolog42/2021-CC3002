@@ -6,9 +6,9 @@ public class Neurona {
 
 	// Constructor de la clase, no devuelve ningun valor, y tiene el mismo nombre que la clase
 	public Neurona(double w1, double w2, double b){
-		weight1 = w1;
-		weight2 = w2;
-		bias = b;
+		this.weight1 = w1;
+		this.weight2 = w2;
+		this.bias = b;
 	}
 
 	// Metodo que devuelve un doble
