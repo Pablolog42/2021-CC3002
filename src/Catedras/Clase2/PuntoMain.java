@@ -10,11 +10,9 @@ public class PuntoMain {
 
         System.out.println(p3.toString());
 
-        // Esto igual sirve, si hay un metodo llamado "toString" en una clase, Java al imporimir
+        // Esto igual sirve, si hay un metodo llamado "toString" en una clase, Java al imprimir
         // lo ocupa solo
         System.out.println(p3);
-        
-        
         
     }
 }
