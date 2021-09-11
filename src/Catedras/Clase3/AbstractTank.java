@@ -1,4 +1,4 @@
-package src.Catedras.Clase3;
+package src.catedras.clase3;
 
 public abstract class AbstractTank {
     private double cooldown;
