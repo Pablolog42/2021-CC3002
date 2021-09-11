@@ -1,11 +1,11 @@
 package src.miniTarea1.bank;
 import java.util.Hashtable;
 
-/**
- * @author Pablo Gonzalez Aguilera.
+/*
+  @author Pablo Gonzalez Aguilera.
  * CC3002-1
  * MiniTarea 1
- **/
+ */
 
 
 /**
