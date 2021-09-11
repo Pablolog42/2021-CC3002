@@ -5,6 +5,7 @@ public abstract class AbstractTank {
     protected
      int damage;
 
+    // Tanque Abstracto
     public AbstractTank(double aCooldown, int aDamage){
         this.cooldown = aCooldown;
         this.damage = aDamage;
