@@ -1,8 +1,9 @@
 package src.Catedras.Clase3;
 
 public abstract class AbstractTank {
-    private double cooldown;
-    private int damage;
+    protected double cooldown;
+    protected
+     int damage;
 
     public AbstractTank(double aCooldown, int aDamage){
         this.cooldown = aCooldown;
