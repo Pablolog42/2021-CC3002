@@ -1,4 +1,4 @@
-package src.Catedras.Clase2;
+package src.catedras.clase2;
 
 public class PuntoMain {
     public static void main(String args[]) {

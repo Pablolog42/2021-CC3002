@@ -1,0 +1,2 @@
+- Paquetes todo con minuscula
+- Clases en Camel Case y empezando con mayuscula

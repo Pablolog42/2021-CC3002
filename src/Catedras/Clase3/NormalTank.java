@@ -1,4 +1,4 @@
-package src.Catedras.Clase3;
+package src.catedras.clase3;
 
 public class NormalTank extends AbstractTank{
     public NormalTank(){

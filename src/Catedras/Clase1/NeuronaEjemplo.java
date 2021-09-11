@@ -1,4 +1,4 @@
-package src.Catedras.Clase1;
+package src.catedras.clase1;
 
 
 public class NeuronaEjemplo {
